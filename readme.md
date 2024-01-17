@@ -1,6 +1,6 @@
-# 👏CoderTalks Project Requirement
+# 👏CoderTalks Backend Project Requirement
 
-## Features
+## 🔥Features
  ### Registration
 ``` 
 1. Registration should be done using OTP system.There can be sent using phone number and email.
