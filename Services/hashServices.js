@@ -4,7 +4,7 @@ const hashOtp = async (data) => {
     const hash = crypto.createHmac('sha256', process.env.HASH_SECRET)
         .update(data)
         .digest('hex')
-    console.log(hash, "hash");
+    // console.log(hash, "hash");
     return hash
 }
 
